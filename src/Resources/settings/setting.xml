@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<CONFIG>
+
+	<APP_SEETING name="Turn Table">
+		<!-- time to go back to MainPage,  Seconds  
+		//Example//
+		1 minute 	=  	60 
+		5 minute 	=  	300 
+		10 minute 	=  	600 
+		30 minute 	=  	1800 
+		45 minute 	=  	2700 
+		1 hour 		=  	3600 
+		-->
+		
+		<home_idle_time>60</home_idle_time>
+
+		
+		<!--******************************************************-->
+		<!-- time to display screensaver,  Seconds  
+		//Example//
+		1 minute 	=  	60 
+		5 minute 	=  	300 
+		10 minute 	=  	600 
+		30 minute 	=  	1800 
+		45 minute 	=  	2700 
+		1 hour 		=  	3600 
+		-->
+
+		<screeaver_idle_time>60</screeaver_idle_time>		
+		
+		
+	</APP_SEETING>
+</CONFIG>
