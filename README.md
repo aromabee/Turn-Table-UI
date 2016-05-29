@@ -1,2 +1,2 @@
 # Turn-Table-UI
-Turn Table UI for Product Turn Table Kiosk System.
+Turn Table UI for Turn Table Kiosk System.
